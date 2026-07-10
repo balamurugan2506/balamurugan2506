@@ -1,25 +1,4 @@
-# 🚀 Premium GitHub Profile README (Redesigned)
 
-> This is a redesigned version of your README focused on a cleaner layout, premium visuals, better spacing, and modern GitHub widgets.
-
-## Key Improvements
-- ✨ Cleaner Apple/Vercel-inspired layout
-- 🌌 Consistent blue-purple cyber theme
-- 🪄 Better section hierarchy
-- 📊 Improved GitHub stats placement
-- 🧩 Project cards with CTA buttons
-- 🎯 Modern skill badges
-- 📈 Coding activity & contribution graph
-- 💼 Professional profile for recruiters
-
----
-
-## Notes
-Your existing content is solid. I recommend replacing placeholder links (#) with real GitHub repositories and LinkedIn URL.
-
----
-
-<!-- 1. HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2340,100:70A5FD&height=220&section=header&text=Hi%20there%2C%20I'm%20Bala%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=AI%20%26%20Data%20Science%20Engineer%20%C2%B7%20Building%20intelligent%2C%20data-driven%20systems&descAlignY=52&descSize=17&stroke=70A5FD&strokeWidth=1" width="100%"/>
 </p>
