@@ -1,218 +1,132 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A78BFA&height=200&section=header&text=Bala%20Murugan%20M&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338CA,50:6366F1,100:818CF8&height=190&section=header&text=Bala%20Murugan%20M&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Engineer%20%C2%B7%20Coimbatore%2C%20India&descAlignY=62&descSize=15&fontAlign=50" width="100%"/>
+  <br/>
 
-<br/>
+  [![Email](https://img.shields.io/badge/Email-balamurugan250604%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugan250604@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-balamurugan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan)
+  [![GitHub](https://img.shields.io/badge/GitHub-balamurugan2506-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balamurugan2506)
 
-<a href="#about">About</a> &nbsp;·&nbsp;
-<a href="#experience">Experience</a> &nbsp;·&nbsp;
-<a href="#projects">Projects</a> &nbsp;·&nbsp;
-<a href="#skills">Skills</a> &nbsp;·&nbsp;
-<a href="#achievements">Achievements</a> &nbsp;·&nbsp;
-<a href="#contact">Contact</a>
-
-<br/><br/>
-
-<a href="mailto:balamurugan250604@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/balamurugan2506"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/balamurugan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+  <br/>
+  
+  ---
+  
+  🚀 **B.Tech Student in Artificial Intelligence & Data Science** focused on building production-oriented AI pipelines, intelligent conversational systems, and cloud-native data architectures.
 </div>
 
 <br/>
 
-<h2 id="about">
-  <img src="https://img.shields.io/badge/-About-4338CA?style=flat-square" height="26"/>
-</h2>
-
-I'm a B.Tech student in **Artificial Intelligence & Data Science** at PSG Institute of Technology and Applied Research, focused on building practical, production-oriented AI systems — from conversational voice agents to NLP-driven detection tools.
+## 🛠️ Tech Stack & Tooling
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 Currently building**
-AI-powered voice and language systems
-
-**🌱 Currently exploring**
-Computer vision & cloud-native AI deployment
-
-</td>
-<td width="50%" valign="top">
-
-**🏆 Recognition**
-2nd Place, Project Expo — Dept. of AI & DS
-
-**☁️ Certified**
-Oracle Cloud Infrastructure 2025 — AI
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="20%"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>AI / ML / NLP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine%20Learning-4F46E5?style=flat-square"/>
+      <img src="https://img.shields.io/badge/BERT-7C3AED?style=flat-square"/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sentence%20Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pygame-111111?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<h2 id="experience">
-  <img src="https://img.shields.io/badge/-Experience-4338CA?style=flat-square" height="26"/>
-</h2>
+## 💼 Work Experience
 
-<table>
-<tr>
-<td>
+#### **Machine Learning Engineer Intern** — *CubeAI Solutions*
+> 📅 **Nov 2025 – Feb 2026** &nbsp;|&nbsp; 📍 *Tiruchengode, Tamil Nadu*
+* Architected and implemented an end-to-end **AI Voice Agent System** by streamlining a pipeline integrating **STT (Speech-to-Text)**, **LLM reasoning frameworks**, and **TTS (Text-to-Speech)**.
+* Focused on building production-grade workflows for latency-sensitive, real-time conversational agents.
+* `Python` `LLMs` `AI Pipelines` `Speech-to-Text` `Text-to-Speech`
 
-**Machine Learning Engineer Intern** — CubeAI Solutions
-<sub>Nov 2025 – Feb 2026 · Tiruchengode, Tamil Nadu</sub>
+<br/>
 
-Designed and built an end-to-end **AI Voice Agent System**, integrating speech-to-text, LLM reasoning, and text-to-speech into a single real-time conversational pipeline within a production-oriented ML engineering workflow.
+## 🚀 Featured Projects
 
-<img src="https://img.shields.io/badge/Python-eef2ff?style=flat-square&color=eef2ff&labelColor=eef2ff" height="0"/>`Python` `LLMs` `Speech-to-Text` `Text-to-Speech` `AI Pipelines`
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Atlas Protocol</h3>
+      <p>An AI-driven RPG experience crafted using Pygame, LangChain, and OpenAI. Features dynamically evolving AI non-player characters capable of managing personalized quests and context-aware conversations.</p>
+      <code>Pygame</code> <code>LangChain</code> <code>OpenAI API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📰 Fake News Detection System</h3>
+      <p>A real-time misinformation classification engine built on Streamlit. Leverages BERT and Sentence Transformers to calculate deep semantic similarity and isolate fraudulent news articles.</p>
+      <code>Streamlit</code> <code>BERT</code> <code>Transformers</code>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<h2 id="projects">
-  <img src="https://img.shields.io/badge/-Projects-4338CA?style=flat-square" height="26"/>
-</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Atlas Protocol
-AI-powered RPG where players interact with an evolving AI character through dynamic quests and real-time, context-aware conversations.
-
-`Pygame` `LangChain` `OpenAI API`
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 Fake News Detection System
-Real-time misinformation detection web app using semantic similarity and transformer-based text classification.
-
-`Streamlit` `BERT` `Sentence Transformers`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ AI Voice Agent System
-End-to-end conversational voice pipeline (STT → LLM → TTS) built during my ML engineering internship at CubeAI Solutions.
-
-`STT` `LLMs` `TTS`
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 More Projects
-Additional full-stack and AI-driven builds are on my profile — check the pinned repositories for the latest work.
-
-**[View all repositories →](https://github.com/balamurugan2506?tab=repositories)**
-
-</td>
-</tr>
-</table>
+<p align="right"><a href="https://github.com/balamurugan2506?tab=repositories"><b>Explore all repositories →</b></a></p>
 
 <br/>
 
-<h2 id="skills">
-  <img src="https://img.shields.io/badge/-Skills-4338CA?style=flat-square" height="26"/>
-</h2>
+## 🏅 Certifications & Achievements
 
-<table>
-<tr><td><b>Languages</b></td><td>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-</td></tr>
-<tr><td><b>AI · ML · NLP</b></td><td>
-
-![ML](https://img.shields.io/badge/Machine%20Learning-4338CA?style=flat-square)
-![BERT](https://img.shields.io/badge/BERT-4338CA?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-4338CA?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-4338CA?style=flat-square&logo=openai&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-4338CA?style=flat-square&logo=huggingface&logoColor=white)
-
-</td></tr>
-<tr><td><b>Frameworks & Tools</b></td><td>
-
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-171515?style=flat-square&logo=python&logoColor=white)
-
-</td></tr>
-<tr><td><b>Cloud</b></td><td>
-
-![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-</td></tr>
-<tr><td><b>Soft Skills</b></td><td>
-
-Communication · Team Work · Time Management · Adaptability
-
-</td></tr>
-</table>
+* 🛡️ **Oracle Cloud Infrastructure 2025 Certified AI Associate** — Certified in industry-grade AI/ML workflows, data science architectures, and cloud services aligned with ethical AI practices.
+* 🥈 **2nd Place — Project Expo (2024)** — Awarded by the Department of Artificial Intelligence & Data Science for engineering novel software architecture with high creative impact.
+* 🎙️ **Student Coordinator — ITech Summit Hackathon** — Directed a large-scale, two-round hackathon encompassing **410+ teams** and over **1,400+ active participants**.
 
 <br/>
 
-<h2 id="achievements">
-  <img src="https://img.shields.io/badge/-Achievements-4338CA?style=flat-square" height="26"/>
-</h2>
+## 🎓 Education
 
-| | Achievement | Details |
-|:---:|---|---|
-| 🥈 | **Project Expo — 2nd Place** <sub>Nov 2024</sub> | Awarded by the Department of AI & DS for outstanding performance, creativity, and dedication |
-| ☁️ | **OCI 2025 Certified AI** | Certified in AI/ML fundamentals, data science workflows, and OCI AI services |
-
-**Roles & Responsibilities**
-
-🎤 **Student Coordinator — ITech Summit Hackathon**
-Coordinated a two-round hackathon with 410+ teams and 1,400+ participants.
+* 🎓 **B.Tech in Artificial Intelligence and Data Science** (2024 — 2027)
+  <br/><sub>PSG Institute of Technology and Applied Research, Coimbatore</sub>
+* 📜 **Diploma in Computer Science** (2022 — 2024)
+  <br/><sub>Sankar Polytechnic College, Tamil Nadu</sub>
 
 <br/>
 
-**Education**
-
-| Degree | Institution | Year |
-|---|---|---|
-| B.Tech, Artificial Intelligence & Data Science | PSG Institute of Technology and Applied Research | 2024 – 2027 |
-| Diploma, Computer Science | Sankar Polytechnic College | 2022 – 2024 |
-
-<br/>
-
-<h2>
-  <img src="https://img.shields.io/badge/-GitHub%20Stats-4338CA?style=flat-square" height="26"/>
-</h2>
+## 📊 Git Insights
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=balamurugan2506&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=4338CA&icon_color=6366F1&text_color=1e1b4b&border_radius=10"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balamurugan2506&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=4338CA&text_color=1e1b4b&langs_count=8&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=balamurugan2506&show_icons=true&theme=transparent&title_color=4F46E5&icon_color=7C3AED&text_color=374151&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balamurugan2506&layout=compact&theme=transparent&title_color=4F46E5&text_color=374151&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=balamurugan2506&theme=default&hide_border=true&background=FFFFFF&ring=4338CA&fire=6366F1&currStreakLabel=4338CA&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=balamurugan2506&theme=transparent&ring=4F46E5&fire=7C3AED&currStreakLabel=4F46E5&sideLabels=374151&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
-<h2 id="contact">
-  <img src="https://img.shields.io/badge/-Let's%20Connect-4338CA?style=flat-square" height="26"/>
-</h2>
+---
 
 <div align="center">
-
-<a href="mailto:balamurugan250604@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/balamurugan2506"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<i>Turning data into decisions, one model at a time.</i>
-
+  <h3>Let's Collaborate!</h3>
+  
+  [![Email](https://img.shields.io/badge/Gmail-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balamurugan250604@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balamurugan)
+  
+  <br/>
+  
+  *“Turning data into decisions, one pipeline at a time.”*
+  
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:7C3AED,100:4F46E5&height=90&section=footer" width="100%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818CF8,50:6366F1,100:4338CA&height=120&section=footer" width="100%"/>
