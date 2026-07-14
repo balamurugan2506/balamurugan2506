@@ -15,7 +15,7 @@
 
 <a href="mailto:balamurugan250604@gmail.com"><img src="https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/balamurugan2506"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/balamurugan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -150,6 +150,11 @@ Additional full-stack and AI-driven builds are on my profile — check the pinne
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 </td></tr>
+<tr><td><b>Soft Skills</b></td><td>
+
+Communication · Team Work · Time Management · Adaptability
+
+</td></tr>
 </table>
 
 <br/>
@@ -160,9 +165,13 @@ Additional full-stack and AI-driven builds are on my profile — check the pinne
 
 | | Achievement | Details |
 |:---:|---|---|
-| 🥈 | **Project Expo — 2nd Place** | Awarded by the Department of AI & DS for outstanding performance, creativity, and dedication |
+| 🥈 | **Project Expo — 2nd Place** <sub>Nov 2024</sub> | Awarded by the Department of AI & DS for outstanding performance, creativity, and dedication |
 | ☁️ | **OCI 2025 Certified AI** | Certified in AI/ML fundamentals, data science workflows, and OCI AI services |
-| 🎤 | **Student Coordinator, ITech Summit Hackathon** | Coordinated a two-round hackathon with 410+ teams and 1,400+ participants |
+
+**Roles & Responsibilities**
+
+🎤 **Student Coordinator — ITech Summit Hackathon**
+Coordinated a two-round hackathon with 410+ teams and 1,400+ participants.
 
 <br/>
 
